@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.f81dbff6.css","mappings":"AAAA,KACI,qBAAyB,CAC7B,kDAAqD,CACrD,qBACA","sources":["index.css"],"sourcesContent":["body {\n    background-color: #330033;\nbackground-image: url(\"https://i.gifer.com/Xg9q.gif\");\nbackground-size: cover;\n}"],"names":[],"sourceRoot":""}
